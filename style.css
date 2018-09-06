@@ -1,7 +1,7 @@
 
-body{
+html>body{
     background: #bada55;
-    color: #c0ffee;
+    color: blue;
 }
 
 h1{
@@ -12,4 +12,7 @@ h2{
 }
 li{
     list-style-type: georgian;
+}
+div{
+    border-radius: 15%;
 }
